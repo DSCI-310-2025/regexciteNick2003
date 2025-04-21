@@ -13,9 +13,9 @@ see [stringr](https://stringr.tidyverse.org),
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/Nick-2003/regexcite/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Nick-2003/regexcite/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/DSCI-310-2025/regexciteNick2003/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/DSCI-310-2025/regexciteNick2003/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
-coverage](https://codecov.io/gh/Nick-2003/regexcite/graph/badge.svg)](https://app.codecov.io/gh/Nick-2003/regexcite)
+coverage](https://codecov.io/gh/DSCI-310-2025/regexciteNick2003/graph/badge.svg)](https://app.codecov.io/gh/DSCI-310-2025/regexciteNick2003)
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting! It
