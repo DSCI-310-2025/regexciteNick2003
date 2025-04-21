@@ -2,7 +2,7 @@
 % Please edit documentation in R/str_split_one.R
 \name{str_split_one}
 \alias{str_split_one}
-\title{Split a string}
+\title{Split a string based on given pattern, with n maximum number of places}
 \usage{
 str_split_one(string, pattern, n = Inf)
 }
@@ -36,7 +36,7 @@ with \code{""}.}
 A character vector.
 }
 \description{
-Split a string
+Split a string based on given pattern, with n maximum number of places
 }
 \examples{
 x <- "alfa,bravo,charlie,delta"

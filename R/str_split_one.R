@@ -1,4 +1,4 @@
-#' Split a string
+#' Split a string based on given pattern, with n maximum number of places
 #'
 #' @param string A character vector with, at most, one element.
 #' @inheritParams stringr::str_split
