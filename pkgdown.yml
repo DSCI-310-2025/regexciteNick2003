@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-04-21T18:38Z
+last_built: 2025-04-21T18:41Z
 urls:
   reference: https://dsci-310-2025.github.io/regexciteNick2003/reference
   article: https://dsci-310-2025.github.io/regexciteNick2003/articles
